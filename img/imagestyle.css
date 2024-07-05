@@ -1,0 +1,13 @@
+body{
+    column-count: 3;
+    column-gap: 80px;
+    
+
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+div{
+    padding: 30px;
+}

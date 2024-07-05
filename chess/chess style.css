@@ -1,0 +1,22 @@
+table.chessboard{
+    border-collapse: collapse;
+    width: 320px;
+    height: 320px;
+}
+table.chessboard td{
+    width: 40px;
+    height: 40px;
+
+}
+table.chessboard tr:nth-child(even) td:nth-child(even),
+table.chessboard tr:nth-child(odd) td:nth-child(odd){
+    background-color:black;
+}
+table.chessboard{
+    border: solid 2px;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+}

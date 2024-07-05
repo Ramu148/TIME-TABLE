@@ -1,0 +1,28 @@
+table,td{
+    border:solid 2px;
+    border-collapse: collapse;
+    color: black;
+}
+th{
+    text-align: center;
+    margin: 50px;
+}
+.time table{
+    border: 0%;
+}
+th{
+    text-align: justify;
+}
+.lunch{
+    border: 0%;
+}
+.ga{
+    border: 0%;
+}
+table{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+h1{
+    text-align: center;
+}
